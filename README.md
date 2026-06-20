@@ -32,7 +32,7 @@ This project recommends movies based on content similarity. Given a movie title,
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 movie-recommendation-system/
@@ -46,7 +46,7 @@ movie-recommendation-system/
 
 ---
 
-## ⚙️ Setup & Installation
+##  Setup & Installation
 
 ### 1. Clone the repository
 
@@ -85,7 +85,7 @@ streamlit run app.py
 
 ---
 
-## 🎯 How It Works
+##  How It Works
 
 1. The TMDB 5000 dataset is preprocessed in the notebook (tags, genres, cast, etc.)
 2. A TF-IDF or count vectorizer builds feature vectors for each movie
@@ -95,7 +95,7 @@ streamlit run app.py
 
 ---
 
-## 📸 Screenshot
+##  Screenshot
 
 <img width="1919" height="954" alt="image" src="https://github.com/user-attachments/assets/15ef5a94-5a6d-46ae-86f7-f1b6a84f76bc" />
 
